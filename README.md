@@ -1,4 +1,4 @@
-# data_analysis-
+# data_analysis
 ## 缘由
 之前一位数学专业的朋友找我写的一个分析excel表数据内容的程序。
 ## 目前功能
